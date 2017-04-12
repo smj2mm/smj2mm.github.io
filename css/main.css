@@ -48,14 +48,15 @@ img {
 }
 
 .portrait {
-    height: 80px;
-    width: 30px;
+    height: 40%;
 }
 
 .landscape {
-    //height: 40px;
-    //width: 90px;
 }
+
+.landscape_small {
+    width: 75%;
+}    
 
 .square {
     height: 75px;
